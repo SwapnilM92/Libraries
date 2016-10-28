@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Utility
 {
-    class Message
+    public static class Message
     {
         public static void ShowErrorMessage(string message)
         {
